@@ -1,1 +1,1 @@
-# Where-s-Waldo
+# Where-is-Waldo
